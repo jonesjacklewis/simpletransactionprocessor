@@ -23,10 +23,10 @@ acc_789,200.00
 ## To Do
 
 - [x] Create ReadMe
-- [ ] Check for existence of the CSV file
-- [ ] Generate test CSV file on load, if one does not exist
-- [ ] Stream each line of the CSV file
-- [ ] Extract "useful" information (customer_id, amount, transaction_type)
-- [ ] Update a map of values with `key=custmomer_id, value=balance`
-- [ ] Sort map by `customer_id`
-- [ ] Output the map in the requested format
+- [x] Check for existence of the CSV file
+- [x] Generate test CSV file on load, if one does not exist
+- [x] Stream each line of the CSV file
+- [x] Extract "useful" information (customer_id, amount, transaction_type)
+- [x] Update a map of values with `key=custmomer_id, value=balance`
+- [x] Sort map by `customer_id`
+- [x] Output the map in the requested format
