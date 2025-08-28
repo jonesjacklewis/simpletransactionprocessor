@@ -22,7 +22,7 @@ acc_789,200.00
 
 ## To Do
 
-- [ ] Create ReadMe
+- [x] Create ReadMe
 - [ ] Check for existence of the CSV file
 - [ ] Generate test CSV file on load, if one does not exist
 - [ ] Stream each line of the CSV file
